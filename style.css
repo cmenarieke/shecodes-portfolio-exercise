@@ -115,7 +115,22 @@ p {
     font-size: 32px;
     text-align: center;
   }
-  img {
+
+  p {
+    text-align: center;
+  }
+
+  .project-snapshot {
     display: none;
+  }
+
+  .app-links {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
+  }
+
+  #contact {
+    margin: 80px 5px;
   }
 }
